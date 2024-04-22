@@ -10,5 +10,5 @@ llama-index-legacy==0.9.48
 llama-index-llms-gemini==0.1.7
 llama-index-llms-openai==0.1.16
 llamaindex-py-client==0.1.18
-typing-extensions==4.0.0  # If you are using Python version less than 3.8
+typing-extensions  # If you are using Python version less than 3.8
 datetime==4.4  # Ensure this version is valid or use an alternative if needed

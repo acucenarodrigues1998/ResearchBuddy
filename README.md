@@ -18,7 +18,7 @@ To use ResearchBuddy, you need to set up API keys for Google's Gemini model and 
 - [Google AI](https://ai.google.dev/)
 - [SerpAPI](https://serpapi.com/users/sign_up)
 
-Once you have your API keys, store them in a `credentials.yaml` file in the project root directory.
+Once you have your API keys, you can add it to the application's sidebar.
 
 ### Setting up the Environment
 
@@ -53,6 +53,10 @@ streamlit run app.py
 ## Usage
 
 Launch the application through your terminal using the command above, and input your query into the web interface. The tool processes your query using Google's Gemini and SerpAPI to provide a list of relevant articles, their summaries, and formatted references.
+
+You can access and test the tool from the link: 
+
+- [ResearchBuddy](https://airesearchbuddy.streamlit.app/)
 
 ## Contributing
 
